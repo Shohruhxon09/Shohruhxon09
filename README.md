@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Shohruhxon
+- 🌱 I’m currently learning Front-end
