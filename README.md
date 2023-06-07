@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shohruhxon</h1>
 <h3 align="center">I'm a fFrontend Developer from Uzbekistan</h3>
-<div style="display:flex;">
+<div style="display:flex; justify-content:space-evenly;">
 <div style="">
  🔭 I’m currently studying on **IT Academy**
 
