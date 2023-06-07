@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Shohruhxon</h1>
 <h3 align="center">I'm a Frontend Developer from Uzbekistan</h3>
-<div style="display:flex; justify-content:space-evenly;">
-  <div style="">
+<div style="display:flex; ">
+  <div style="text-align:right;">
     🔭 I’m currently studying on **IT Academy**
 
     🌱 I’m currently learning **React and JavaScript**
