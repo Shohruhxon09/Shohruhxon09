@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Shohruhxon</h1>
 <h3 align="center">I'm a fFrontend Developer from Uzbekistan</h3>
-
+<div style="display:flex;">
+<div style="">
  🔭 I’m currently studying on **IT Academy**
 
  🌱 I’m currently learning **React and JavaScript**
@@ -13,8 +14,9 @@
  📫 How to reach me **Shohruhxonasro@gmail.com**
 
 ⚡ Fun fact I am really fun
+ </div>
 <img align="right top" alt="coding"  width="400" src="https://camo.githubusercontent.com/721e303ab0d90be24bd195a9da93b7044db963c4e2ded4a7fc516e353779e976/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323434323131352f73637265656e73686f74732f383639393439302f6d656469612f34386262646132373836383363373837396265626435376630653266393237312e676966">
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shoha_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
