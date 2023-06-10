@@ -14,9 +14,9 @@
   
 
    
- </div>-->
+ </div>--><div syle="display:flex">
    <img align="right top" alt="coding"  width="400" src="https://media2.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=6c09b9520nwu28bhd4f2mkqebjllgwaj0y9fthxzdctyv5c3&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="animation:salom ease infinite;"> 
-
+<p>
 - 🔭 I’m currently studying on **IT Academy**
 
 -  🌱 I’m currently learning **React and JavaScript**
@@ -28,7 +28,8 @@
 -   📫 How to reach me **Shohruhxonasro@gmail.com**
 
 -  ⚡ Fun fact I am really fun
-
+</p>
+  </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shoha_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
