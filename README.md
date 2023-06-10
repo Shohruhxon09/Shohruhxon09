@@ -15,7 +15,7 @@
 
    
  </div>-->
-   <img align="right top" alt="coding"  width="400" src="[C:\Users\IT-Academy\Desktop\Новая папка\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg](http://localhost:3000/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg)" style="animation:salom ease infinite;"> 
+   <img align="right top" alt="coding"  width="400" src="http://localhost:3000/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" style="animation:salom ease infinite;"> 
    <style>
 @keyframes Salom {
   from {
