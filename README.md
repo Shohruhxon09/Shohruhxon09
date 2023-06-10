@@ -16,16 +16,6 @@
    
  </div>-->
    <img align="right top" alt="coding"  width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="animation:salom ease infinite;"> 
-   <style>
-@keyframes Salom {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-</style>
 
 - 🔭 I’m currently studying on **IT Academy**
 
