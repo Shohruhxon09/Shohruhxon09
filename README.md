@@ -15,7 +15,17 @@
 
    
  </div>-->
-   <img align="right top" alt="coding"  width="400" src="https://camo.githubusercontent.com/721e303ab0d90be24bd195a9da93b7044db963c4e2ded4a7fc516e353779e976/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323434323131352f73637265656e73686f74732f383639393439302f6d656469612f34386262646132373836383363373837396265626435376630653266393237312e676966"> 
+   <img align="right top" alt="coding"  width="400" src="C:\Users\IT-Academy\Desktop\Новая папка\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" style="animation:salom ease infinite;"> 
+   <style>
+@keyframes Salom {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+</style>
 
 - 🔭 I’m currently studying on **IT Academy**
 
