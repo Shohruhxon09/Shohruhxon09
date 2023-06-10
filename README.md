@@ -15,7 +15,7 @@
 
    
  </div>-->
-   <img align="right top" alt="coding"  width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="animation:salom ease infinite;"> 
+   <img align="right top" alt="coding"  width="400" src="https://media2.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=6c09b9520nwu28bhd4f2mkqebjllgwaj0y9fthxzdctyv5c3&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="animation:salom ease infinite;"> 
 
 - 🔭 I’m currently studying on **IT Academy**
 
