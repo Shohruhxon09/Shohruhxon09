@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shohruhxon</h1>
 <h3 align="center">I'm A frontend developer from Uzbekistan</h3>
-
+<p align="left"> <img src="https://camo.githubusercontent.com/be1245167aa569da33a4d4180cf28711b0454865cd699abbdf5af4862476fdb0/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f68554c3567646c7644677452624f456c5a532f67697068792e6769663f6369643d3663303962393532306e777532386268643466326d6b7165626a6c6c6777616a307939667468787a64637479763563332665703d76315f737469636b6572735f72656c61746564267269643d67697068792e6769662663743d73" alt="shoha-coder" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoha-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shoha-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoha-coder" alt="shoha-coder" /></a> </p>
